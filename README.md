@@ -1,5 +1,6 @@
 # This lab is part 1 for learning to set up a logical partition in Linux. 
-# <img width="800" height="600" alt="LVM github topic intro" src="https://github.com/user-attachments/assets/af6d2c2e-c9f0-4878-b28e-824aba0ff7f9" />
+<img width="800" height="600" alt="LVM github topic intro Part 1" src="https://github.com/user-attachments/assets/863e254a-4fe2-4c62-942e-9c39fd980a32" />
+
 
 # What we're using
 - CentOS 9 Stream Linux Distribution
